@@ -1,0 +1,10 @@
+D:\Proyectos Programación\Proyectos Angular\Universidad\PracticaRebase\prueba\bin\Debug\prueba.exe.config
+D:\Proyectos Programación\Proyectos Angular\Universidad\PracticaRebase\prueba\bin\Debug\prueba.exe
+D:\Proyectos Programación\Proyectos Angular\Universidad\PracticaRebase\prueba\bin\Debug\prueba.pdb
+D:\Proyectos Programación\Proyectos Angular\Universidad\PracticaRebase\prueba\obj\Debug\prueba.csprojAssemblyReference.cache
+D:\Proyectos Programación\Proyectos Angular\Universidad\PracticaRebase\prueba\obj\Debug\prueba.Form1.resources
+D:\Proyectos Programación\Proyectos Angular\Universidad\PracticaRebase\prueba\obj\Debug\prueba.Properties.Resources.resources
+D:\Proyectos Programación\Proyectos Angular\Universidad\PracticaRebase\prueba\obj\Debug\prueba.csproj.GenerateResource.cache
+D:\Proyectos Programación\Proyectos Angular\Universidad\PracticaRebase\prueba\obj\Debug\prueba.csproj.CoreCompileInputs.cache
+D:\Proyectos Programación\Proyectos Angular\Universidad\PracticaRebase\prueba\obj\Debug\prueba.exe
+D:\Proyectos Programación\Proyectos Angular\Universidad\PracticaRebase\prueba\obj\Debug\prueba.pdb
